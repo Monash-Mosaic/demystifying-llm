@@ -1,0 +1,14 @@
+id: core
+version: "1.0"
+
+slots:
+  - task
+  - context
+  - audience
+  - format
+  - tone
+
+statuses:
+  - clear
+  - thin
+  - missing

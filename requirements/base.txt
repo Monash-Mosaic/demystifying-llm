@@ -1,0 +1,15 @@
+Django>=5.2,<5.3
+djangorestframework>=3.16,<4
+
+psycopg[binary]>=3.2,<4
+
+uvicorn[standard]>=0.34,<1
+
+boto3>=1.37,<2
+
+langgraph>=1,<2
+langchain-aws>=1,<2
+langchain-core>=1,<2
+
+pydantic>=2.10,<3
+PyYAML>=6,<7
